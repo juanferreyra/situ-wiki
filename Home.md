@@ -1,6 +1,7 @@
-# Bienvenido a la Wiki del Sistema
-
+# Bienvenido a la Wiki de SiTu
 ![Logo del Sistema](http://nerv.com.ar:90/static/img/logo_dark.png)
+
+***
 
 ## Instructivos Disponibles
 
