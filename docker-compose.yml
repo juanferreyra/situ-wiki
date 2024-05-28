@@ -9,6 +9,6 @@ services:
     volumes:
       - ./config.rb:/etc/gollum/config.rb
       - ./gitconfig:/home/www-data/.gitconfig
-      - ./wikidata:/wiki
+      - ./:/wiki
     command:
       - "--config=/etc/gollum/config.rb"
